@@ -1,4 +1,5 @@
-
+/* If a= 250 and b = 50 perform addition in and sent the result to other function such that the result should
+be only one byte and should share the result without any changes in result. */
 
 
 #include<stdio.h>
