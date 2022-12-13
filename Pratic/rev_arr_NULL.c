@@ -1,3 +1,13 @@
+/* WAP to print elements of array in reverse order if found element is null 
+  For ex: 
+   INPUT : Array = {3, 4, 5, 7, 0, 8, 1, 9}; 
+    Find out the element is NuLL and print the ouput 
+   OUTPUT : 0, 7, 5, 4, 3 */
+
+
+
+
+
 #include<stdio.h>
 int main()
 {
